@@ -9,13 +9,6 @@
     background: #7d2ae8;
     color: #fff;
 }
-body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    background: #7d2ae8;
-}
 .wrapper {
     position: relative;
     width: 600px;
